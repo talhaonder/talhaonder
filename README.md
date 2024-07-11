@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talha Önder</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaonder&label=Profile%20views&color=0e75b6&style=flat" alt="talhaonder" /> </p>
+![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaonder" alt="talhaonder" /></a> </p>
 
