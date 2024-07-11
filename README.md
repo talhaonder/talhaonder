@@ -3,7 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=talhaonder&color=red)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaonder" alt="talhaonder" /></a> </p>
 
 - 🔭 I’m currently working on **GlutenMetre**
 
