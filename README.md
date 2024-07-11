@@ -25,8 +25,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/talhaonder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="talhaonder" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaonder&show_icons=true&locale=en&layout=compact" alt="talhaonder" /></p>
+<h3>My GitHub contributions summary</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talhaonder&show_icons=true&locale=en" alt="talhaonder" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=talhaonder&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaonder&" alt="talhaonder" /></p>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=talhaonder&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
